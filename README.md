@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Surya D B</h1>
-<h3 align="center">Developer, Content creator and Coder who has a strong will to become better everyday and to teach what I learn</h3>
+<h3 align="center">Developer and Coder who has a strong will to become better everyday and to teach what I learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=db-surya&label=Profile%20views&color=0e75b6&style=flat" alt="db-surya" /> </p>
 
